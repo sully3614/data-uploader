@@ -86,5 +86,5 @@ Response:
 
 If no asset has been loaded, a 403 will be thrown. 
 
-#### GET an asset
+#### GET PresignedURL
 After the previous calls have been made, the "Download_url" provided in GET /asset/{assetId} should return the original asset uploaded.
